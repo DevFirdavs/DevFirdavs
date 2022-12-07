@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Acme&pause=1000&width=435&lines=I'm+full-stack+web+and+flutter+developer." alt="Typing SVG" /></a>
+<a ><img src="https://readme-typing-svg.demolab.com?font=Acme&pause=1000&width=435&lines=I'm+full-stack+web+and+flutter+developer.+I+like+scraping." alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
