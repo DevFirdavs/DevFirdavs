@@ -7,7 +7,7 @@
 <a ><img src="https://readme-typing-svg.demolab.com?font=Acme&pause=1000&width=435&lines=I'm+full-stack+web+and+flutter+developer.+I+like+scraping." alt="Typing SVG" /></a>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![DevFirdavs' github stats](https://github-readme-stats.vercel.app/api?username=DevFirdavs)
 
 
 
