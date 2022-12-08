@@ -10,13 +10,14 @@
 <h2>Github Stats and Streak</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=DevFirdavs&show_icons=true&theme=react-dark&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec&text_color=ffffff" />
 <img src="https://streak-stats.demolab.com?user=DevFirdavs&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFirdavs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec&hide=Jupyter%20Notebook" />
 </div>
 
 <div>
- <h2>Most used languages</h2>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdavs-coder&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec&hide=Jupyter%20Notebook" />
+<h2>Most used languages and Wakatime</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdavs-coder&langs_count=8&layout=compact&theme=react&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevFirdavs&bg_color=20232a&title_color=5bcdec&text_color=ffffff" alt="">
 </div>
+
 
 <div>
 <h2>My Top Repositories</h2>
