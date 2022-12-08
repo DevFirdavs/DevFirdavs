@@ -7,6 +7,9 @@
 <a ><img src="https://readme-typing-svg.demolab.com?font=Acme&pause=1000&width=435&lines=I'm+full-stack+web+and+flutter+developer.+I+like+scraping." alt="Typing SVG" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFirdavs)](https://github.com/DevFirdavs/github-readme-stats)
+
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
