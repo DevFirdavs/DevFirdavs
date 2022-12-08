@@ -1,11 +1,3 @@
-<style>
-    @media only screen and (max-width: 900px) {
-        img {
-            width: 100%!important;
-        }
-    }
-</style>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Acme&pause=1000&color=5BCDEC&width=435&lines=I'm+full-stack+web+and+flutter+developer.+I+like+scraping." />
 </p>
