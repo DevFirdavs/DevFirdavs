@@ -16,8 +16,7 @@
 
     <img src="https://streak-stats.demolab.com?user=DevFirdavs&theme=react" />
 
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFirdavs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec&hide=Jupyter%20Notebook" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFirdavs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec&hide=Jupyter%20Notebook" />
 </div>
 
 <!-- pinned repos -->
