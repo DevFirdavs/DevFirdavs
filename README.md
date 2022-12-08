@@ -6,14 +6,12 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevFirdavs&theme=react-dark" alt="">
 </div>
 
-<p>
+<div>
 <h2>Github Stats and Streak</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=DevFirdavs&show_icons=true&theme=react-dark&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec&text_color=ffffff" />
-
 <img src="https://streak-stats.demolab.com?user=DevFirdavs&theme=react" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFirdavs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=5bcdec&icon_color=5bcdec&hide=Jupyter%20Notebook" />
-</p>
+</div>
 
 <div>
 <h2>My Top Repositories</h2>
